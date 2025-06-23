@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.db
+*.pyc
+.env
+.idea
++.DS_Store*
+.pytest_cache
+*.rb
+.vscode
+CACHEDIR.TAG
+.venv/
