@@ -12,13 +12,11 @@ This project scrapes, stores, and explores MLB player, pitcher, and team data ac
 
 ## 🚀 Live Dashboard
 
-👉 [Click to View on Streamlit.io](https://<your-streamlit-link>)
+👉 [Click to View on Streamlit.io](https://ctd-web-scraping-and-dashboard-project-r5owgddeamjhpkwu4gaepm.streamlit.app/)
 
 ## 💻 Local Setup
-
 ```bash
-git clone https://github.com/yourname/mlb-dashboard.git
-cd mlb-dashboard
+git clone https://github.com/henzbori/CTD-Web-Scraping-and-Dashboard-Project.git
 pip install -r requirements.txt
 streamlit run dashboard/app.py
 
