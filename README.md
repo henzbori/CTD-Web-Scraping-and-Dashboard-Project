@@ -9,6 +9,7 @@ This project scrapes, stores, and explores MLB player, pitcher, and team data ac
 - `db/` → SQLite DBs and import script
 - `queries/` → CLI tool to query data interactively
 - `dashboard/app.py` → Streamlit dashboard
+- `assets/img/` → Screenshots of the Streamlit dashboard
 
 ## 🚀 Live Dashboard
 
@@ -19,5 +20,3 @@ This project scrapes, stores, and explores MLB player, pitcher, and team data ac
 git clone https://github.com/henzbori/CTD-Web-Scraping-and-Dashboard-Project.git
 pip install -r requirements.txt
 streamlit run dashboard/app.py
-
-![example of the daashboard top players](/assets/img/dashboard%20screenshort%20top%20players.png) ![example of the dashboard win %](/assets/img/dashboard%20screenshort%20win%20percentage.png)
